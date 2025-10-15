@@ -1,4 +1,4 @@
-**React Algorithm Explorer** 🚀💡
+**AlgoFlow** 🚀💡
 
 An engaging **React-powered visualization platform** for **Data Structures & Algorithms**.  
 This application enables users to **discover, practice, and observe sorting methods, search techniques, tree navigation, and complex graph algorithms** through **live, animated demonstrations**.  
