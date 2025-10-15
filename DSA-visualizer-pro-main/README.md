@@ -56,23 +56,6 @@ This initiative highlights **algorithm knowledge + React programming + interface
 
 ---
 
-## 🛠 Setup Guide & Technology
-
-```bash
-# 1. Get the project files
-git clone https://github.com/your-username/react-dsa-visualizer.git
-cd react-dsa-visualizer
-
-# 2. Install required packages
-npm install
-
-# 3. Launch the application
-npm start
-
-# 4. Access through your browser
-# Go to http://localhost:3000
-```
-
 **How to Use:**
 
 Pick a section: Sorting, Searching, Trees, or Graphs
