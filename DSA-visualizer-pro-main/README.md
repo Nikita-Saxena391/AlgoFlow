@@ -1,100 +1,103 @@
-# React DSA Visualizer 🔥💻
+**React Algorithm Explorer** 🚀💡
 
-A fully interactive **React-based visualization app** for **Data Structures & Algorithms (DSA)**.  
-This project allows users to **learn, experiment, and visualize sorting algorithms, searching algorithms, tree and graph traversals, and advanced graph algorithms** with **real-time, step-by-step animations**.  
+An engaging **React-powered visualization platform** for **Data Structures & Algorithms**.  
+This application enables users to **discover, practice, and observe sorting methods, search techniques, tree navigation, and complex graph algorithms** through **live, animated demonstrations**.  
 
-This project showcases **DSA skills + React development + UI/UX expertise** in one comprehensive app.  
+This initiative highlights **algorithm knowledge + React programming + interface design capabilities** in one unified application.  
 
 ---
 
-## 🌟 Features
+## 🔬 Capabilities
 
-### Sorting Algorithms
+### Sorting Methods
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
 
-### Searching Algorithms
+### Search Techniques
 - Linear Search
 - Binary Search
 
-### Tree Traversals
-- Preorder Traversal
-- Inorder Traversal
-- Postorder Traversal
-- Level Order Traversal
-- Interactive tree creation (add/remove nodes)
+### Tree Navigation
+- Preorder Navigation
+- Inorder Navigation
+- Postorder Navigation
+- Level-by-Level Navigation
+- Dynamic tree building (insert/delete nodes)
 
-### Graph Traversals & Algorithms
-- BFS (Breadth-First Search)
-- DFS (Depth-First Search)
-- Dijkstra’s Algorithm
-- Bellman-Ford Algorithm
-- Prim’s MST
-- Kruskal’s MST
-- Interactive graph creation (add/remove nodes & weighted edges)
+### Graph Exploration & Methods
+- Breadth-First Exploration
+- Depth-First Exploration
+- Dijkstra's Pathfinding
+- Bellman-Ford Approach
+- Prim's Spanning Tree
+- Kruskal's Spanning Tree
+- Dynamic graph building (insert/delete nodes & connections)
 
-### Advanced Features
-- Custom input for arrays, trees, and graphs
-- Step-by-step visualization controls (**Next, Previous, Slider**)
-- Smooth animations for swaps, node visits, and traversal paths
-- Node labels & edge weights clearly shown
-- Zoom & pan for large datasets
-- Educational mode: step explanations and **"Predict Next Step" quizzes**
-- Export & Share: **GIF/MP4 export, JSON export, shareable links**
-- Optimized for large datasets (**1000+ nodes/bars**)
-
----
-
-## ⚡ Project Highlights
-- **Interactive:** Drag & drop nodes, add/remove nodes, add weighted edges  
-- **Educational:** Step explanations in plain English  
-- **Performance Optimized:** Smooth UI for large datasets using React hooks  
-- **Blends DSA + Development:** Demonstrates both algorithmic understanding and practical frontend skills  
+### Enhanced Functionality
+- Personalized data input for collections, trees, and networks
+- Progressive visualization tools (**Advance, Go Back, Progress Track**)
+- Fluid motion graphics for exchanges, node highlighting, and path tracking
+- Clear element identification & connection values
+- Scalable viewing for extensive data
+- Learning mode: detailed instructions and **"Guess Next Move" challenges**
+- Save & Distribute: **Animation export, state download, collaboration links**
+- Efficient handling of substantial data (**1000+ elements**)
 
 ---
 
-## 📦 Installation, Usage & Tech Stack
+## 💫 Key Advantages
+- **Hands-On**: Move & place nodes, insert/delete elements, set connection values  
+- **Instructive**: Clear descriptions for each step  
+- **Speed Optimized**: Responsive interface for big data using React hooks  
+- **Combines Theory & Practice**: Shows both algorithm mastery and implementation skills  
+
+---
+
+## 🛠 Setup Guide & Technology
+
 ```bash
-# 1. Clone the repository
+# 1. Get the project files
 git clone https://github.com/your-username/react-dsa-visualizer.git
 cd react-dsa-visualizer
 
-# 2. Install dependencies
+# 2. Install required packages
 npm install
 
-# 3. Run the project
+# 3. Launch the application
 npm start
 
-# 4. Open the app in your browser
-# Visit http://localhost:3000
-Usage:
+# 4. Access through your browser
+# Go to http://localhost:3000
+```
 
-Select category: Sorting, Searching, Trees, or Graphs
+**How to Use:**
 
-Choose an algorithm
+Pick a section: Sorting, Searching, Trees, or Graphs
 
-Generate a random dataset or enter custom input
+Select your preferred algorithm
 
-Use step controls (Next, Previous, Slider) to navigate algorithm steps
+Create random data or provide your own input
 
-Observe highlighted nodes/bars/edges for comparisons, swaps, or visits
+Use navigation tools (Next, Back, Progress Bar) to move through steps
 
-Use export features to save GIFs or JSON of the current state
+Watch highlighted elements for comparisons, changes, or visits
 
-Tech Stack & Dependencies:
+Use sharing options to create animations or save your progress
 
-React.js (functional components + hooks)
+**Technology & Tools:**
 
-JavaScript (ES6+)
+React.js (modern components + hooks)
 
-Lucide-React icons
+JavaScript (latest features)
 
-CSS & Tailwind (optional)
+Lucide-React graphics
 
-Dependencies:
+Styling with CSS & Tailwind
+
+**Required Packages:**
 
 react
 
