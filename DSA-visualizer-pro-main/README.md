@@ -1,7 +1,7 @@
 **AlgoFlow** 🚀💡
 
 An engaging **React-powered visualization platform** for **Data Structures & Algorithms**.  
-This application enables users to **discover, practice, and observe sorting methods, search techniques, tree navigation, and complex graph algorithms** through **live, animated demonstrations**.  
+This application enables users to **discover, and observe sorting methods, search techniques, tree navigation, and complex graph algorithms** through **live, animated demonstrations**.  
 
 This initiative highlights **algorithm knowledge + React programming + interface design capabilities** in one unified application.  
 
