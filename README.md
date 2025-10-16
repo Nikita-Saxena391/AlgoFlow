@@ -1,3 +1,4 @@
+AlgoFlow
 This initiative highlights **algorithm knowledge + React programming + interface design capabilities** in one unified application.  
 
 ---
@@ -76,3 +77,11 @@ Lucide-React graphics
 Styling with CSS & Tailwind
 
 **Required Packages:**
+
+react
+
+react-dom
+
+react-scripts
+
+lucide-react
